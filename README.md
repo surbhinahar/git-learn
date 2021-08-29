@@ -1,2 +1,2 @@
 # git-learn
-to understand how to use github and pushub
+to understand how to use github and push localfiles
